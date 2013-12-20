@@ -1,4 +1,11 @@
-website-as-a-project-slides
-===========================
+Website as a Project +  
+Elemente introductive de marketing online
+==========================================
 
-The slides for the mini-workshop "Website as a Project" (Romanian)
+Slide-uri
+
+Autor - [Cristian Dinu](http://cristiandinu.info)
+
+Creat cu [Reveal.js](http://lab.hakim.se/reveal-js/#/)
+
+Creative commons CC BY-SA-NC
